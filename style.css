@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    color:aqua;
+    font-size: 40px;
+}
+body {
+    font-family: sans-serif;
+    background-color: wheat;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+nav {
+    text-align: center;
+    background-color: purple;
+    padding: 20px 0px;
+    margin: 20px 0px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    margin-right: 60px;
+}
+footer p {
+    background-color: bisque;
+    color:blueviolet;
+    padding: 5px;
+}
+footer a {
+    background-color: red;
+    color:blueviolet;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+.chocho {
+    width: 500px;
+    height: 200px;
+}
+main p {
+    color: gray;
+    font-size: 18px;
+}
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
